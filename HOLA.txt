@@ -1,2 +1,2 @@
-HOLA 
-Este es un archivo de prueba
+Intento de Merge conflict
+Hola, veamos si funciona
